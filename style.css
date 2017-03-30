@@ -1,0 +1,31 @@
+.tit h1{
+    font-weight: bold;
+    font-size: 3em;
+}
+#logo {
+    margin-top:2em;
+    float: right;
+}
+.tit {
+    float: left;
+    text-align: left;
+}
+.break   {
+    clear: both;
+}
+#bigpho img{
+    width: 100%
+}
+.row p{
+    font-size: 2em;
+}
+.row a{
+    font-size: 2em;
+}
+.me img{
+    margin-right: 1em;
+    width: 8em;
+    height: 10em;
+    float: left;
+    border-radius: 15px;
+}
