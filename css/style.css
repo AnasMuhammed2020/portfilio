@@ -1,8 +1,8 @@
-.tit h1 {
+.maintit h1 {
     font-weight: bold;
     font-size: 3em;
 }
-.tit p{
+.maintit p{
         font-size: 2.5em;
 }
 
@@ -11,7 +11,7 @@
     float: right;
 }
 
-.tit {
+.maintit {
     float: left;
     text-align: left;
 }
